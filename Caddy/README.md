@@ -9,3 +9,4 @@
 - Utiliza os Windows Service Control para automatizar a inicialização no boot.
 - Parâmetros: .\caddy.exe run
 - Caso o Caddyfile esteja em outro diretório complemente: --config [caminho]
+<img width="784" height="238" alt="image" src="https://github.com/user-attachments/assets/a6e73994-7927-467e-a9b3-2d2ee3de54e9" />
