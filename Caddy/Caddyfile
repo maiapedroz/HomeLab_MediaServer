@@ -1,0 +1,8 @@
+[endereço_dns]:8443 {
+  tls {
+      dns duckdns [token]
+      ca https://acme-v02.api.letsencrypt.org/directory
+      resolvers 1.1.1.1:53
+  }
+  reverse_proxy 127.0.0.1:8096
+}
